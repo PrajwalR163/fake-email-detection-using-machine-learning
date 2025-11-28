@@ -1,0 +1,5 @@
+{
+  "name": "SentinelMail AI",
+  "description": "An advanced Machine Learning demonstration for detecting Phishing and Spam emails using NLP and feature engineering techniques.",
+  "requestFramePermissions": []
+}
